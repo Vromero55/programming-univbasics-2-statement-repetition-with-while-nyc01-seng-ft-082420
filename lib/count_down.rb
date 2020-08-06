@@ -1,5 +1,5 @@
 count=10;
-while count=>1do
+while count>1do
   puts "#{count}";
 count=count-1;
 end
